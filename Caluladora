@@ -1,2 +1,2 @@
 #calculadora programacion
-print "programacio grupo b"
+print ("programacio grupo b")
