@@ -3,7 +3,7 @@ def coseno(a):
     y=math.cos(a)
     return y
 def arcoseno(b):
-    if b>0-1 and b<=1:
+    if b>=-1 and b<=1:
         z=math.acos(b)
         w=math.degrees(z)
         return w
