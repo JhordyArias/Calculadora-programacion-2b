@@ -10,7 +10,7 @@ def arcoseno(b):
         return w
     else:
         print("----------------------------------")
-        print("usted ingreso un numero no valido")
+        print("usted ingreso un ángulo no valido, ya que el arcocoseno esta en un rango unico de -1 hasta 1")
 while True:
     x=input("Introdusca un angulo: ")
     if x.isdigit():
