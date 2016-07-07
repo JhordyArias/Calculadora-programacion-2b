@@ -1,10 +1,10 @@
 #calculadora programacion
-print ("programacio grupo b")
+print ("programación grupo b")
 print("hecho por 
 print()
 print()
 print()
-a=input(int("ingrese la opcion que dece realizar"))
+a=input(int("ingrese la opcion que desea realizar"))
 if x==1:
 
 
@@ -13,6 +13,6 @@ if x==1:
 
 
 #Suma de los numeros definidos
-print("ingrese el numero qie 
+print("ingrese el numero que 
 
 
