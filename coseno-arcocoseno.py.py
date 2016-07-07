@@ -28,6 +28,6 @@ while True:
 
 print("\t\tresultado....")
 time.sleep(3)
-print("el coseno es:{}radianes".format(coseno(x)))
-print("el arcocoseno es:{}°".format(arcoseno(u)))
+print("el coseno de ",x," es:{}radianes".format(coseno(x)))
+print("el arcocoseno de ",u," es:{}°".format(arcoseno(u)))
 
