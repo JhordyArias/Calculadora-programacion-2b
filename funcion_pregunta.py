@@ -19,10 +19,10 @@ def pregunta():
         else:
             print("Opps! No era valido, intente nuevamente...")
     if(respuesta == "si"):
-        os.system("cls")
+        os.system("clear")
         menu()
     if(respuesta == "no"):
-        os.system("cls")
+        os.system("clear")
         print("Cerrando programa...")
         time.sleep(2)
         sys.exit(1)
