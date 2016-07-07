@@ -1,4 +1,5 @@
-import math    
+import math
+import time
 def coseno(a):
     y=math.cos(a)
     return y
@@ -24,7 +25,9 @@ while True:
         break
     else:
         print("opcion no valida, vuelva a intentarlo")
-        
+
+print("\t\tresultado....")
+time.sleep(3)
 print("el coseno es:{}radianes".format(coseno(x)))
 print("el arcocoseno es:{}°".format(arcoseno(u)))
 
