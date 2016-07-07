@@ -3,7 +3,7 @@ import sys
 import time
 
 def xalax():
-    os.system("cls")
+    os.system("clear")
     print("Modelo: X^×\n*X: base.\n*×: exponente.")
     print("\nIngrese valor de la base:")
     while True:
