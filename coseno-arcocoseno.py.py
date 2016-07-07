@@ -25,6 +25,6 @@ while True:
     else:
         print("opcion no valida, vuelva a intentarlo")
         
-print("el coseno es:{}".format(coseno(x)))
+print("el coseno es:{}radianes".format(coseno(x)))
 print("el arcocoseno es:{}°".format(arcoseno(u)))
 
